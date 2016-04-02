@@ -1,0 +1,28 @@
+name: zeca
+favicon: null
+layout_spectrum: 0.28416166291572154
+typography_spectrum: 0.39845798816531897
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.1814147438853979
+  lightness: 0.963353609200567
+  saturation: 0.22135024797171354
+  rhythmicContrast: 0.09725917596369982
+purpose: []
